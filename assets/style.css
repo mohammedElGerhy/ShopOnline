@@ -1,0 +1,11 @@
+.consub{
+    color: #c82333;
+    z-index: 2;
+    height: 50ch;
+    width: 500px;
+    position: relative;
+    right: -200px;
+    background-color: #1b1e21;
+    top: 0px;
+
+}
